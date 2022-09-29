@@ -19,10 +19,19 @@
 .sign-up-button {
     color: #3882f6;
 }
+#image-one {
+    width: 100px;
+    height: auto;
+}
 .information-header {
     color: #1F2937;
     font-size: 36px;
     font: bolder;
+    text-align: center;
+}
+.information-pictures {
+    max-width: 100px;
+    height: auto;
 }
 .quote {
     background-color: #e5e7eb;
@@ -32,6 +41,7 @@
     color: #1F2937;
     font-style: italic;
     font-weight: light;
+    text-align: center;
 }
 .call-to-action {
     background-color: #3882f6;
