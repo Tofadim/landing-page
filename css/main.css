@@ -1,9 +1,6 @@
 .header {
     background-color: #1F2937;
 }
-.sign-up-button {
-    color: #3882f6;
-}
 #header-logo {
     color: #f9faf8;
     font-size: 24px;
@@ -17,7 +14,10 @@
     font-size: 18px;
 }
 .sign-up-button {
-    color: #3882f6;
+    color:#e5e7eb;
+    background-color: #3882f6;
+    border-color: #3882f6;
+    border-radius:  6px;
 }
 #image-one {
     width: 100px;
@@ -32,6 +32,7 @@
 .information-pictures {
     max-width: 100px;
     height: auto;
+    border-radius: 10px;
 }
 .quote {
     background-color: #e5e7eb;
@@ -45,4 +46,5 @@
 }
 .call-to-action {
     background-color: #3882f6;
+    border-radius: 5px;
 }
